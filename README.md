@@ -45,7 +45,7 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 
 #### 🧠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,java,c,sql,html" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,c,sql" />
 </p>
 
 #### 📊 Data Science & AI
@@ -77,28 +77,17 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zakariabouy&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabouy&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 📫 How to reach me
-- 💼 LinkedIn: linkedin.com/in/zakariae-bouyaknifen
-- 📧 Email: *zikobouy@gmail.com*
-- 🌐 GitHub: https://github.com/zakariabouy
 
 ---
 
 ### ⚡ Fun facts
 - 🧠 I love mixing **math + real-life problems**
 - 🎤 Moderator & speaker in tech conferences
-- ♟️ Competitive problem solving enthusiast 
-
----
-
-⭐ *Feel free to explore my repositories and projects!*  
+- ♟️ Competitive problem solving enthusiast   
