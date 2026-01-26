@@ -77,13 +77,13 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariabouy&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabouy&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zakariabouy&show_icons=true&theme=tokyonight" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabouy&layout=compact&theme=tokyonight" height="180"/>
+
+</div>
 
 ---
 
