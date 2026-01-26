@@ -62,19 +62,19 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakariae-Bouy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakariabouy&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariae-Bouy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabouy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 How to reach me
-- 💼 LinkedIn: *add your link here*
-- 📧 Email: *your professional email*
-- 🌐 GitHub: https://github.com/Zakariae-Bouy
+- 💼 LinkedIn: *linkedin.com/in/zakariae-bouyaknifen*
+- 📧 Email: *zikobouy@gmail.com*
+- 🌐 GitHub: https://github.com/zakariabouy
 
 ---
 
