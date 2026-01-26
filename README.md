@@ -29,7 +29,7 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 
 #### 🧠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,java,c,php,sql,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,c,sql,html" />
 </p>
 
 #### 📊 Data Science & AI
@@ -43,18 +43,18 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
 #### ⚙️ Dev & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
 
 ### 🧩 Clubs & Leadership
-- 👑 **INSEA Innovation Edge (IIE)** — Core member & event organizer  
+- 👑 **INSEA Innovation Edge (IIE)** — President  
 - 🎮 Organizer of **Game of Codes** (National programming & AI event)
 - 🤝 Experience in **sponsorship, partnerships & logistics**
 
@@ -72,7 +72,7 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 ---
 
 ### 📫 How to reach me
-- 💼 LinkedIn: *linkedin.com/in/zakariae-bouyaknifen*
+- 💼 LinkedIn: linkedin.com/in/zakariae-bouyaknifen
 - 📧 Email: *zikobouy@gmail.com*
 - 🌐 GitHub: https://github.com/zakariabouy
 
@@ -81,7 +81,7 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 ### ⚡ Fun facts
 - 🧠 I love mixing **math + real-life problems**
 - 🎤 Moderator & speaker in tech conferences
-- ♟️ Chess & competitive problem solving enthusiast
+- ♟️ Competitive problem solving enthusiast 
 
 ---
 
