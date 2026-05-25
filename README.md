@@ -89,5 +89,5 @@ I enjoy turning **theory into real-world impact**, whether through **data scienc
 
 ### ⚡ Fun facts
 - 🧠 I love mixing **math + real-life problems**
-- 🎤 Moderator & speaker in tech conferences
+- 🎤 BeatBoxer
 - ♟️ Competitive problem solving enthusiast   
